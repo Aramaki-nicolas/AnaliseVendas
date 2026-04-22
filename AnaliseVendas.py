@@ -189,9 +189,7 @@ resumo.column_dimensions["B"].width = 22
 resumo.column_dimensions["C"].width = 28
  
  
-# ============================================================
-# SALVAR TUDO
-# ============================================================
+#Salvar
  
 wb.save(arquivo_saida)
  
